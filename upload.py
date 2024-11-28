@@ -33,6 +33,8 @@ from src.trackers.RF import RF
 from src.trackers.OE import OE
 from src.trackers.BHDTV import BHDTV
 from src.trackers.RTF import RTF
+from src.trackers.ULCX import ULCX
+from src.trackers.OTW import OTW
 import json
 from pathlib import Path
 import asyncio
